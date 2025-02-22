@@ -51,6 +51,8 @@ Accuracy, Precision, Recall, and F1-score are standard ML metrics, but in medica
 
 Silhouette Score - This metric is the standard one for gauging how well a clustering algorithm, in our case K-Means, performed. 
 
+AUC-ROC Curve - This will help figure out how well the model differentiates between different disorders.
+
 # Goals:
 Create an accurate machine learning model and also gather information about the genetic disorders that can help researchers and medical professionals.
 
